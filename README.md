@@ -18,3 +18,6 @@ The databases in code are from the [UCI repository](https://archive.ics.uci.edu/
 
 [2] “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on 7 Feb. 2022
 https://www.kaggle.com/c/instacart-market-basket-analysis/data?select=order_products__train.csv.zip
+
+#### Credits:
+[1] [GitHub Copilot](https://copilot.github.com): An insane AI code autocompletion tool!
